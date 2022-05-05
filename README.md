@@ -1,7 +1,7 @@
 
 Welcome to rfinland's documentation.
-- 🔭 I’m currently working on [ParseChart](https://github.com/rfinland/ansible-workshop) , [k8s-workshop](https://github.com/rfinland/k8s-workshop) [Ephemeral Container](https://github.com/rfinland/Ephemeral-container)
-- 🌱 I’m currently learning [Production-Grade Container Orchestration](https://kubernetes.io/docs/home/)
+- 🔭 I’m currently working on [ansible-workshop](https://github.com/rfinland/ansible-workshop) , [k8s-workshop](https://github.com/rfinland/k8s-workshop) [Ephemeral Container](https://github.com/rfinland/Ephemeral-container)
+- 🌱 I’m currently learning [Production-Grade Container Orchestration](https://kubernetes.io/docs/home/) [Ansible Documentation](https://docs.ansible.com/) 
 - 👯 I’m looking to collaborate on [Ephemeral Container](https://github.com/rfinland/Ephemeral-container)
 - 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/rfinland/) , [Email](mailto:r.finland88@gmail.com)
 - 💬 ask me about anything, I'm happy to help 😊
@@ -12,6 +12,7 @@ Welcome to rfinland's documentation.
   - [Minikube](https://github.com/rfinland/Minikube) 
   - [Ephemeral-container](https://github.com/rfinland/Ephemeral-container)
   - [k8s-workshop](https://github.com/rfinland/k8s-workshop)
+  - [ansible-workshop](https://github.com/rfinland/ansible-workshop)
   - [ParseChart](https://github.com/rfinland/ParseChart)
   - [PostgresChart](https://github.com/rfinland/PostgresChart)
   - [ParseDashboardChart](https://github.com/rfinland/ParseDashboardChart)
